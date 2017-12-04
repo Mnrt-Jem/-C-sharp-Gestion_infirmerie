@@ -1,0 +1,8 @@
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\DatabaseInfirmerie\sql\debug\DatabaseInfirmerie_Script.PreDeployment.sql
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\DatabaseInfirmerie\sql\debug\DatabaseInfirmerie_Script.PostDeployment.sql
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\DatabaseInfirmerie\sql\debug\DatabaseInfirmerie_Database.sqlsettings
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\DatabaseInfirmerie\sql\debug\DatabaseInfirmerie_Database.sqldeployment
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\DatabaseInfirmerie\sql\debug\DatabaseInfirmerie_Database.sqlcmdvars
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\DatabaseInfirmerie\sql\debug\DatabaseInfirmerie.deploymanifest
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\DatabaseInfirmerie\sql\debug\DatabaseInfirmerie.dbschema
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\DatabaseInfirmerie\obj\Debug\DatabaseInfirmerie.dbschema

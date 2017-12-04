@@ -1,0 +1,4 @@
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursBO\bin\Debug\UtilisateursBO.dll
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursBO\bin\Debug\UtilisateursBO.pdb
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursBO\obj\Debug\UtilisateursBO.dll
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursBO\obj\Debug\UtilisateursBO.pdb

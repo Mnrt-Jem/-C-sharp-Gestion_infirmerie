@@ -1,0 +1,7 @@
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursBLL\bin\Debug\UtilisateursBLL.dll
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursBLL\bin\Debug\UtilisateursBLL.pdb
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursBLL\obj\Debug\UtilisateursBLL.dll
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursBLL\obj\Debug\UtilisateursBLL.pdb
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\UtilisateursBLL\obj\Debug\UtilisateursBLL.csprojResolveAssemblyReference.cache
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\UtilisateursBLL\bin\Debug\UtilisateursDAL.dll
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\UtilisateursBLL\bin\Debug\UtilisateursDAL.pdb

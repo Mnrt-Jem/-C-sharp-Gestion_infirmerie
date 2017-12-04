@@ -1,0 +1,17 @@
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\bin\Debug\UtilisateursGUI.exe
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\bin\Debug\UtilisateursGUI.pdb
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\bin\Debug\UtilisateursBLL.dll
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\bin\Debug\UtilisateursBO.dll
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\bin\Debug\UtilisateursBLL.pdb
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\bin\Debug\UtilisateursBO.pdb
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\obj\x86\Debug\UtilisateursGUI.csprojResolveAssemblyReference.cache
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\obj\x86\Debug\UtilisateursGUI.Properties.Resources.resources
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\obj\x86\Debug\UtilisateursGUI.csproj.GenerateResource.Cache
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\obj\x86\Debug\UtilisateursGUI.exe
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\obj\x86\Debug\UtilisateursGUI.pdb
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\bin\Debug\UtilisateursDAL.dll
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\bin\Debug\UtilisateursDAL.pdb
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\obj\x86\Debug\UtilisateursGUI.ConnexionGUI.resources
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\obj\x86\Debug\UtilisateursGUI.Main.resources
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\obj\x86\Debug\UtilisateursGUI.StudentDetails.resources
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\UtilisateursGUI\obj\x86\Debug\UtilisateursGUI.AddStudent.resources

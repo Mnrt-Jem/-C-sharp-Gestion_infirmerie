@@ -1,0 +1,5 @@
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursDAL\bin\Debug\UtilisateursDAL.dll
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursDAL\bin\Debug\UtilisateursDAL.pdb
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursDAL\obj\Debug\UtilisateursDAL.dll
+c:\users\antoi\onedrive\documents\visual studio 2010\Projects\GestionInfirmerie\UtilisateursDAL\obj\Debug\UtilisateursDAL.pdb
+C:\Users\antoi\OneDrive\Documents\Visual Studio 2010\Projects\GestionInfirmerie\UtilisateursDAL\obj\Debug\UtilisateursDAL.csprojResolveAssemblyReference.cache
